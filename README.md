@@ -34,10 +34,9 @@
 - Follow the on-screen prompts to manage the restaurant's operations.
 
 ### Technology Stack
-- **Frontend:** React.js
-- **Backend:** Node.js, Express
-- **Database:** MongoDB
-- **Deployment:** Docker, Heroku
+- **Frontend:** tkinter
+- **Backend:** python
+- **Database:** sqlite3
 
 ### Database Schema
 - **Users Table:** Stores information about users such as name, email, and password.
